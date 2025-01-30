@@ -25,7 +25,7 @@ impl Solution {
 fn main() {
     let solution = Solution::new();
 
-    let profit:i32 = solution.max_profit([7,1,5,3,6,4].to_vec());    
+    let profit:i32 = solution.max_profit([7,1,5,3,6,4].to_vec());
     println!("The Profit is {profit}");
 
     let profit2:i32 = solution.max_profit([1,2,3,4,5].to_vec());
