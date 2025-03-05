@@ -36,9 +36,9 @@ Total profit is 4.
  
 ### Constraints:
 
-`1 <= prices.length <= 3 * 104`
+`1 <= prices.length <= 3 * 10⁴`
 
-`0 <= prices[i] <= 104`
+`0 <= prices[i] <= 10⁴`
 
 ### URL
 
