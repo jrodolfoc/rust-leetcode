@@ -23,9 +23,9 @@ Return `true` _if you can reach the last index, or `false` otherwise._
 
 ### Constraints:
 
-`1 <= nums.length <= 104`
+`1 <= nums.length <= 10⁴`
 
-`0 <= nums[i] <= 105`
+`0 <= nums[i] <= 10⁵`
 
 ### URL
 
