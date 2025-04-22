@@ -27,9 +27,9 @@ Return _the minimum number of jumps to reach_ `nums[n - 1]`. The test cases are 
 
 ### Constraints:
 
-`1 <= nums.length <= 10⁴`
-
-`0 <= nums[i] <= 10`
+- `1 <= nums.length <= 10⁴`
+- `0 <= nums[i] <= 1000`
+- It's guaranteed that you can reach `nums[n - 1]`.
 
 ### URL
 
