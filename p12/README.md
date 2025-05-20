@@ -1,4 +1,4 @@
-# Integer to Roman
+# 12. Integer to Roman
 
 Seven different symbols represent Roman numerals with the following values:
 
@@ -25,7 +25,7 @@ Given an integer, convert it to a Roman numeral.
 
 ### Example 1:
 
-**Input:** Input: num = 3749
+**Input:** num = 3749
 
 **Output:** "MMMDCCXLIX"
 
